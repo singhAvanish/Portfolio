@@ -1,0 +1,19 @@
+.project{
+    background-color:#89d7f6;
+    height: 1000px;
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items: center;
+    color: white;
+}
+.p{
+    width: 80%;
+    padding:5% 0% 5% 0%;
+    text-align: center;
+    border: 5px solid #052948;
+    margin: 2%;
+    border-radius: 20px;
+    color: white;
+    background-color: #052948;
+}

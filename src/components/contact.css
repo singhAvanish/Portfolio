@@ -1,0 +1,18 @@
+#contact{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10%;
+    padding: 2%;
+    background-color: #559ddd;
+    color: white;
+
+    
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    
+}

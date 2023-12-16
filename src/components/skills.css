@@ -1,0 +1,70 @@
+.skill{
+    background-color: #559ddd;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 20%;
+    color:rgb(231, 229, 229);
+    text-align: center;
+    display: flex;
+    flex-direction:column ;
+    
+    
+    
+   
+}
+.skillHead h1{
+    margin: 0;
+    padding: 4%;
+}
+img{
+    width: 60%;
+}
+/* .skillsName{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1400px;
+    flex-direction: column;
+    background-color: black;
+
+} */
+.row{
+    width: 12%;
+    height: 100%;
+    border: 5px solid beige;
+   margin: 10px;
+   text-align: center;
+   border-radius: 20px;
+   background-color: #fbe3e8;
+   color: #5cbdb9;
+   
+    
+}
+
+/* .rownum{
+    margin-bottom: 5%;
+} */
+.firstRow{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+.secondRow{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.thirdRow{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.rownum{
+    gap: 5vh;
+    margin: 2%;
+}
