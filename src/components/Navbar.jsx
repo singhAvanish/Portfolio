@@ -80,6 +80,7 @@ export default function Navbar(props) {
           </li>
         </ul>
       </div>
+      
     </div>
 
 

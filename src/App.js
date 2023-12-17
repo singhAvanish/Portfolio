@@ -13,6 +13,7 @@ import Contact from "./components/Contact";
 
 
 
+
 function App(props) {
   
   
@@ -26,7 +27,9 @@ function App(props) {
       
       <div className="App">
         <Navbar/>
+        
         <Home></Home>
+        
         <Skills></Skills>
         
         <Projects></Projects>
